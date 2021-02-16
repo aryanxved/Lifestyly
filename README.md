@@ -3,7 +3,7 @@
 ## The Perfect Student Academic Planner!
 
 ### Problem
-As a first-year student quickly I found that organization is key to success both academiclly and mentally. I found that I had been using multiple different programs to get simple tasks such as inputting my grades or organizing my assignments for the week. With the power of Excel, and some VBA I was able to create a simple solution, now known as Lifestyly!
+As a first-year student quickly I found that organization is key to success both academically and mentally. I found that I had been using multiple different programs to get simple tasks such as inputting my grades or organizing my assignments for the week. With the power of Excel, and some VBA I was able to create a simple solution, now known as Lifestyly!
          
 ### Description
 
